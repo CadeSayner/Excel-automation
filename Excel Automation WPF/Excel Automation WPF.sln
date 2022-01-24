@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel Automation WPF", "Excel Automation WPF.csproj", "{31EFFCCB-6BEC-4296-A2B9-122D46DDA886}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ExcelAutomationSetup", "..\ExcelAutomationSetup\ExcelAutomationSetup.vdproj", "{2EE5F56F-94EC-4863-A149-8B3CF36E96C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EFFCCB-6BEC-4296-A2B9-122D46DDA886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EFFCCB-6BEC-4296-A2B9-122D46DDA886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EFFCCB-6BEC-4296-A2B9-122D46DDA886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EFFCCB-6BEC-4296-A2B9-122D46DDA886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE5F56F-94EC-4863-A149-8B3CF36E96C8}.Debug|Any CPU.ActiveCfg = Debug
+		{2EE5F56F-94EC-4863-A149-8B3CF36E96C8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1A5C292-4CCF-485E-A839-FBE00C846FA4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\bin\Debug\Excel Automation WPF.exe.config
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\bin\Debug\Excel Automation WPF.exe
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\bin\Debug\Excel Automation WPF.pdb
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\bin\Debug\Spire.License.dll
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\bin\Debug\Spire.Pdf.dll
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\bin\Debug\Spire.XLS.dll
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\bin\Debug\Spire.License.xml
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\bin\Debug\Spire.Pdf.xml
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\bin\Debug\Spire.XLS.xml
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\Excel Automation WPF.csprojAssemblyReference.cache
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\App.g.cs
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\Excel Automation WPF_MarkupCompile.cache
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\Excel Automation WPF_MarkupCompile.lref
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\MainWindow.baml
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\Excel Automation WPF.g.resources
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\Excel_Automation_WPF.Properties.Resources.resources
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\Excel Automation WPF.csproj.GenerateResource.cache
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\Excel Automation WPF.csproj.CoreCompileInputs.cache
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\Excel Automation WPF.csproj.CopyComplete
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\Excel Automation WPF.exe
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\Excel Automation WPF.pdb
+C:\Users\Neil Sayner\source\repos\Excel Automation WPF\obj\Debug\Excel Automation WPF.csproj.ResolveComReference.cache
